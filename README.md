@@ -7,3 +7,4 @@
 ## Segundo Salvamento
 
 * Uso do comando restore
+* Comando Git pull
