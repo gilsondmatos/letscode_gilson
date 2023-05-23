@@ -5,3 +5,5 @@
 ## Modificando
 
 ## Segundo Salvamento
+
+* Uso do comando restore
